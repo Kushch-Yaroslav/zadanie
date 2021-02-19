@@ -1,0 +1,76 @@
+    1  ls
+    2  ls -l
+    7  ls
+   10  ls
+   13  ls
+   15  ls
+   16  ls -l
+   22  ls
+   24  ls
+   26  ls
+   31  ls
+   35  ls
+   37  ls
+   39  ls
+   42  ls
+   46  ls
+   52  ls
+   64  ls
+   65  ls -l
+   70  ls -
+   71  ls -l
+   77  ls -la
+   82  ls -l
+   83  ls -l > file
+   93  man ls
+   95  ls --help
+  101  ls 123
+  105  ls -l
+  134  ls -l
+  154  ls -l
+  155  ls -lai
+  158  ls -lai
+  213  ls
+  214  ls test
+  215  ls test1
+  216  ls -test
+  218  ls --help
+  219  ls -l
+  220  ls index -l
+  221  ls -l >> index
+  242  ls -l
+  250  ls
+  271  ls
+  272  ls -l
+  273  ls -li
+  275  ls
+  276  ls -l
+  301  ls -l
+  302  ls -li
+  311  ls project-home
+  312  ls project-home -t
+  323  ls -l total
+  324  ls -l total 11752
+  325  ls -l total
+  332  ls
+  335  ls
+  369  ls | greb3
+  370  ls | grep 3
+  371  ls -l | grep uni
+  372  ls -l | grep u
+  373  ls -l | grep f
+  376  history ls
+  377  history | grep ls
+  379  ls  -R / greb file
+  384  ls | sort
+  385  ls | sort -V
+  389  man ls
+  391  ls -l > file
+  394  ls | grep NAME
+  395  ls | grep 'NAME'
+  417  ls Задание
+  418  ls -l Задание
+  460  history ls
+  461  history 'ls'
+  462  history | grep 'ls'
+  463  history | grep 'ls' > Задание
